@@ -9,7 +9,7 @@ public class Game {
 
 	public static void main(String[] args) {
 
-		JFrame  window = new JFrame("Bitch Ass");
+		JFrame  window = new JFrame("Game");
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		window.setResizable(false);
 		
